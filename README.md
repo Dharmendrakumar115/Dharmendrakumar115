@@ -8,8 +8,8 @@ Here are some of the technologies and tools I'm proficient with:
 
 - **Languages:**
   - ![Java](https://img.shields.io/badge/-Java-orange)
-  - ![Web Development](https://img.shields.io/badge/-Python-blue)
-  - ![Aptitude Preparation](https://img.shields.io/badge/-SQL-lightgrey)
+  - ![Web Development](https://img.shields.io/badge/-Web Development-blue)
+  - ![Aptitude Preparation](https://img.shields.io/badge/-Aptitude Preparation-lightgrey)
 
 - **Frameworks & Libraries:**
   - ![Spring](https://img.shields.io/badge/-Spring-brightgreen)
