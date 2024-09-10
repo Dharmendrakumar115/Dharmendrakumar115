@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Dharmendra Kumar]
+# Hi there! 👋 I'm Dharmendra Kumar
 
 Welcome to my GitHub profile. I'm a passionate Java Developer with a knack for creating efficient, scalable, and high-quality software. Here you'll find repositories showcasing my skills, projects, and contributions to the tech community.
 
@@ -8,9 +8,8 @@ Here are some of the technologies and tools I'm proficient with:
 
 - **Languages:**
   - ![Java](https://img.shields.io/badge/-Java-orange)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![Python](https://img.shields.io/badge/-Python-blue)
-  - ![SQL](https://img.shields.io/badge/-SQL-lightgrey)
+  - ![Web Development](https://img.shields.io/badge/-Python-blue)
+  - ![Aptitude Preparation](https://img.shields.io/badge/-SQL-lightgrey)
 
 - **Frameworks & Libraries:**
   - ![Spring](https://img.shields.io/badge/-Spring-brightgreen)
