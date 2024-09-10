@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dharmendra kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa20yYW1oQVFvWVphZTZCa2dTMkJPOHFTYVNwQXxBQ3Jtc0trSHlTOHc1emV3ZlVaUjlqOVFhYUZQeEdYc0NZNV9PMlpjOWlkM1REMkZKSUg0dU1CM1RzNmg5OEdNcDVxdFVmTGFSY2ZsY1ZBcHh5Mk1yaDZMMnZtWGQzTlZBZEVjcHZCbHlEZngzeGltaDFhVXdpYw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw13gs8gcx0iZGFYyWR9Cyxi&ust=1726033773933000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDsiJDZt4gDFQAAAAAdAAAAABAE">
 
 - 🌱 I’m currently learning **Java + DSA with Web Development !! Aptitude Preparation**
 
