@@ -1,74 +1,30 @@
-# Hi there! 👋 I'm Dharmendra Kumar
+<h1 align="center">Hi 👋, I'm Dharmendra kumar</h1>
+<h3 align="center">A passionate Java developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa20yYW1oQVFvWVphZTZCa2dTMkJPOHFTYVNwQXxBQ3Jtc0trSHlTOHc1emV3ZlVaUjlqOVFhYUZQeEdYc0NZNV9PMlpjOWlkM1REMkZKSUg0dU1CM1RzNmg5OEdNcDVxdFVmTGFSY2ZsY1ZBcHh5Mk1yaDZMMnZtWGQzTlZBZEVjcHZCbHlEZngzeGltaDFhVXdpYw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
 
-Welcome to my GitHub profile. I'm a passionate Java Developer with a knack for creating efficient, scalable, and high-quality software. Here you'll find repositories showcasing my skills, projects, and contributions to the tech community.
+- 🌱 I’m currently learning **Java + DSA with Web Development !! Aptitude Preparation**
 
-## 🚀 Skills
+- 💬 Ask me about **HTML CSS JS(MongoDB,Express,React,node)**
 
-Here are some of the technologies and tools I'm proficient with:
+- 📫 How to reach me **dharbbu7451@gmail.com**
 
-- **Languages:**
-  - ![Java](https://img.shields.io/badge/-Java-orange)
-  - ![Web Development](https://img.shields.io/badge/-Web Development-blue)
-  - ![Aptitude Preparation](https://img.shields.io/badge/-Aptitude Preparation-lightgrey)
+- ⚡ Fun fact **I am funny**
 
-- **Frameworks & Libraries:**
-  - ![Spring](https://img.shields.io/badge/-Spring-brightgreen)
-  - ![Hibernate](https://img.shields.io/badge/-Hibernate-red)
-  - ![React](https://img.shields.io/badge/-React-blue)
-  - ![Angular](https://img.shields.io/badge/-Angular-red)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dharmendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmendra kumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/dharmendra.bhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dharmendra.bhai" height="30" width="40" /></a>
+<a href="https://fb.com/dharmendrakumardharmendrakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dharmendrakumardharmendrakumar" height="30" width="40" /></a>
+<a href="https://instagram.com/dhirubhai797088" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhirubhai797088" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@studymindmastery" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@studymindmastery" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/coderdhiru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coderdhiru" height="30" width="40" /></a>
+</p>
 
-- **Tools & Platforms:**
-  - ![Git](https://img.shields.io/badge/-Git-orange)
-  - ![Maven](https://img.shields.io/badge/-Maven-yellow)
-  - ![Docker](https://img.shields.io/badge/-Docker-blue)
-  - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-green)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-## 🌐 Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharmendrakumar115&show_icons=true&locale=en&layout=compact" alt="dharmendrakumar115" /></p>
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Stack Overflow](https://stackoverflow.com/users/youruserid)
-- [Email](mailto:youremail@example.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmendrakumar115&show_icons=true&locale=en" alt="dharmendrakumar115" /></p>
 
-## 💻 Coding Platforms
-
-I frequently contribute to and explore these platforms:
-
-- [GitHub](https://github.com/yourusername)
-- [LeetCode](https://leetcode.com/yourprofile)
-- [Codewars](https://www.codewars.com/users/yourusername)
-- [HackerRank](https://www.hackerrank.com/yourusername)
-
-## 🔧 Current Projects
-
-Here are some of the projects I'm currently working on:
-
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=false&hide=prs&theme=radical)
-
-## 🏆 Achievements
-
-- Completed the [XYZ Certification](https://example.com) in Java.
-- Contributed to [Open Source Project](https://github.com/opensource/project) with significant enhancements.
-
-## 📚 Blog Posts
-
-I write about programming and tech on my blog:
-
-- [How to Master Java](https://medium.com/@yourprofile/how-to-master-java-12345)
-- [Top 10 Java Libraries You Should Know](https://medium.com/@yourprofile/top-10-java-libraries-you-should-know-67890)
-
-## 📝 License
-
-This profile and all related projects are licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or want to collaborate on a project. Happy coding! 🚀
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendrakumar115&" alt="dharmendrakumar115" /></p>
